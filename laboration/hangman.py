@@ -1,0 +1,3 @@
+# Hangman spel
+
+print "Hangman"
